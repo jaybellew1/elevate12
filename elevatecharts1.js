@@ -133,8 +133,8 @@ var myChart12 = {
                    "x":"45%",
                    "y":"47%",
                    "width":"10%",
-                   "text":"362 TB",
-                   "font-size":24
+                   "text":"362",
+                   "font-size":18
                }    
            ],
            "plot":{
