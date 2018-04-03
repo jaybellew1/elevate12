@@ -150,7 +150,27 @@ var myChart12 = {
                    "shadow":false,
                    "border-radius":3
                }
-           }
+           },
+           "series":[
+               {
+                   "values":[136],
+                   "visible":false,
+                   "text":"AT&T",
+                   "background-color":"#6CCFDF"
+               },
+               {
+                   "values":[118],
+                   "visible":false,
+                   "text":"Verizon",
+                   "background-color":"#E76D45"
+               },
+               {
+                   "values":[108],
+                   "visible":false,
+                   "text":"T-Mobile",
+                   "background-color":"#55BA72"
+               }
+           ]
        }
       
    ]
