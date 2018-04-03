@@ -96,7 +96,7 @@ var myChart12 = {
    "graphset":[
        {
            "type":"pie",
-           "background-color":"#F4F4F4",
+           "background-color":"none",
            "legend":{
                "visible":false,
                "background-color":"none",
@@ -122,10 +122,10 @@ var myChart12 = {
                "y":80
            },
            "plotarea":{
-               "background-color":"#FFFFFF",
-               "border-color":"#DFE1E3",
-               "border-width":1,
-               "border-radius":3,
+               "background-color":"none",
+               "border-color":"none",
+               "border-width":0,
+               "border-radius":0,
                "margin":"15% 5%"
            },
            "labels":[
