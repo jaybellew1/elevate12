@@ -1,6 +1,6 @@
 zingchart.THEME="classic";
  
-var myConfig11 = {
+var myChart11 = {
     "layout":"h",
      "globals":{
         "font-family":"Roboto"
@@ -157,8 +157,8 @@ var myConfig11 = {
 };
  
 zingchart.render({ 
-	id : 'myChart11', 
-	data : myConfig11, 
+	id : 'chartDiv11', 
+	data : myChart11, 
 	height: 500, 
 	width: 725 
 });
