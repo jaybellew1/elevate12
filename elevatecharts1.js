@@ -98,6 +98,7 @@ var myChart12 = {
            "type":"pie",
            "background-color":"#F4F4F4",
            "legend":{
+               "visible":false,
                "background-color":"none",
                "border-width":0,
                "shadow":false,
@@ -154,19 +155,16 @@ var myChart12 = {
            "series":[
                {
                    "values":[136],
-                   "visible":false,
                    "text":"AT&T",
                    "background-color":"#6CCFDF"
                },
                {
                    "values":[118],
-                   "visible":false,
                    "text":"Verizon",
                    "background-color":"#E76D45"
                },
                {
                    "values":[108],
-                   "visible":false,
                    "text":"T-Mobile",
                    "background-color":"#55BA72"
                }
