@@ -156,9 +156,3 @@ var myChart11 = {
     ]
 };
  
-zingchart.render({ 
-	id : 'chartDiv11', 
-	data : myChart11, 
-	height: 500, 
-	width: 725 
-});
