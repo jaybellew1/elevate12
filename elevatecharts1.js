@@ -112,6 +112,7 @@ var myChart12 = {
                }
            },
            "title":{
+               "visible":"false",
                "text":"Total number of Yo",
                "background-color":"none",
                "font-size":16,
