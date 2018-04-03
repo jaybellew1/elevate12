@@ -140,7 +140,7 @@ var myChart12 = {
            "plot":{
                "size":100,
                "slice":70,
-               "margin-right":100,
+               "margin-right":0,
                "border-width":0,
                "shadow":0,
                "value-box":{
