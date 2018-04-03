@@ -138,8 +138,8 @@ var myChart12 = {
                }    
            ],
            "plot":{
-               "size":50,
-               "slice":'50%',
+               "size":'100%',
+               "slice":'80%',
                "margin-right":0,
                "border-width":0,
                "shadow":0,
