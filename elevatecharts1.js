@@ -111,11 +111,18 @@ var myChart12 = {
                    "color":"%backgroundcolor"
                }
            },
-           
-           "plotarea":{
+           "title":{
+               "text":"Total number of Yo",
                "background-color":"none",
+               "font-size":16,
+               "color":"#626262",
+               "x":-20,
+               "y":80
+           },
+           "plotarea":{
+               "background-color":"#FFFFFF",
                "border-color":"#DFE1E3",
-               "border-width":0,
+               "border-width":1,
                "border-radius":3,
                "margin":"15% 5%"
            },
