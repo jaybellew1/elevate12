@@ -257,7 +257,7 @@ var myChart12b = {
 zingchart.THEME="classic";
 
 var myChart13r = {
-    "background-color":"#ecf2f6",
+    "background-color":"none",
     "graphset":[
         {
             "type":"bar",
@@ -265,20 +265,20 @@ var myChart13r = {
             "border-color":"#dae5ec",
             "border-width":"1px",
             "height":"30%",
-            "width":"96%",
-            "x":"2%",
-            "y":"3%",
+            "width":"100%",
+            "x":"0%",
+            "y":"0%",
             "title":{
                 "margin-top":"7px",
-                "margin-left":"9px",
+                "margin-left":"20px",
                 "font-family":"Arial",
                 "text":"DEPARTMENT PERFORMANCE",
                 "background-color":"none",
                 "shadow":0,
                 "text-align":"left",
-                "font-size":"11px",
+                "font-size":"13px",
                 "font-weight":"bold",
-                "font-color":"#707d94"
+                "font-color":"#333333"
             },
             "scale-y":{
                 "values":"0:300:100",
@@ -291,7 +291,7 @@ var myChart13r = {
                 "item":{
                     "font-color":"#8391a5",
                     "font-family":"Arial",
-                    "font-size":"10px",
+                    "font-size":"12px",
                     "padding-right":"5px"
                 },
                 "guide":{
@@ -320,7 +320,7 @@ var myChart13r = {
                 "item":{
                     "font-color":"#8391a5",
                     "font-family":"Arial",
-                    "font-size":"11px",
+                    "font-size":"13px",
                     "padding-top":"2px"
                 },
                 "tick":{
@@ -346,7 +346,7 @@ var myChart13r = {
                 "tooltip":{
                     "font-color":"#fff",
                     "font-family":"Arial",
-                    "font-size":"11px",
+                    "font-size":"13px",
                     "border-radius":"6px",
                     "shadow":false,
                     "padding":"5px 10px",
@@ -396,13 +396,13 @@ var myChart13r = {
             "width":"30%",
             "title":{
                 "margin-top":"7px",
-                "margin-left":"9px",
+                "margin-left":"20px",
                 "text":"BRAND PERFORMANCE",
                 "background-color":"none",
                 "shadow":0,
                 "text-align":"left",
                 "font-family":"Arial",
-                "font-size":"11px",
+                "font-size":"13px",
                 "font-color":"#707d94"
             },
             "scale-y":{
@@ -430,7 +430,7 @@ var myChart13r = {
                     "offset-y":-12,
                     "font-color":"#8391a5",
                     "font-family":"Arial",
-                    "font-size":"11px",
+                    "font-size":"13px",
                     "padding-bottom":"8px"
                 },
                 "guide":{
@@ -445,7 +445,7 @@ var myChart13r = {
                     "font-color":"#ffffff",
                     "background-color":"#707e94",
                     "font-family":"Arial",
-                    "font-size":"11px",
+                    "font-size":"13px",
                     "border-radius":"6px",
                     "shadow":false,
                     "padding":"5px 10px"
@@ -500,7 +500,7 @@ var myChart13r = {
                         "text-align":"right",
                         "font-color":"#8391a5",
                         "font-family":"Arial",
-                        "font-size":"11px",
+                        "font-size":"13px",
                         "text":"$%data-rvalues",
                         "padding-bottom":"8px"
                     }
@@ -518,13 +518,13 @@ var myChart13r = {
             "y":"35.2%",
             "title":{
                 "margin-top":"7px",
-                "margin-left":"12px",
+                "margin-left":"20px",
                 "text":"TODAY'S SALES",
                 "background-color":"none",
                 "shadow":0,
                 "text-align":"left",
                 "font-family":"Arial",
-                "font-size":"11px",
+                "font-size":"13px",
                 "font-color":"#707d94"
             },
             "plot":{
@@ -551,7 +551,7 @@ var myChart13r = {
                 "item":{
                     "font-color":"#8391a5",
                     "font-family":"Arial",
-                    "font-size":"10px",
+                    "font-size":"12px",
                     "padding-right":"5px"
                 }
             },
@@ -569,7 +569,7 @@ var myChart13r = {
                 "item":{
                     "font-color":"#8391a5",
                     "font-family":"Arial",
-                    "font-size":"10px",
+                    "font-size":"12px",
                     "padding-top":"5px"
                 }
             },
@@ -584,13 +584,13 @@ var myChart13r = {
                     "font-family":"Arial",
                     "padding":"0px",
                     "margin":"0px",
-                    "font-size":"9px"
+                    "font-size":"10px"
                 },
                 "marker":{
                     "show-line":"true",
                     "type":"match",
                     "font-family":"Arial",
-                    "font-size":"10px",
+                    "font-size":"12px",
                     "size":4,
                     "line-width":2,
                     "padding":"3px"
@@ -603,7 +603,7 @@ var myChart13r = {
                     "shadow":false,
                     "font-color":"#000",
                     "font-family":"Arial",
-                    "font-size":"10px",
+                    "font-size":"12px",
                     "padding":"5px 10px",
                     "border-radius":"5px",
                     "alpha":1
@@ -612,7 +612,7 @@ var myChart13r = {
                     "font-color":"#ffffff",
                     "background-color":"#707d94",
                     "font-family":"Arial",
-                    "font-size":"10px",
+                    "font-size":"12px",
                     "padding":"5px 10px",
                     "border-radius":"5px"
                 }
