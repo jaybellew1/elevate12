@@ -126,7 +126,7 @@ var myChart12 = {
                "border-color":"none",
                "border-width":0,
                "border-radius":0,
-               "margin":"15% 5%"
+               "margin":"2% 2%"
            },
            "labels":[
                {
