@@ -154,24 +154,14 @@ var myChart12 = {
            },
            "series":[
                {
-                   "values":[723.68],
+                   "values":[36],
                    "text":"Partial Upfront",
-                   "background-color":"#6CCFDF"
+                   "background-color":"#2871E6"
                },
                {
-                   "values":[490.67],
+                   "values":[64],
                    "text":"On Demand",
-                   "background-color":"#E76D45"
-               },
-               {
-                "values":[174.25],
-                "text":"No Upfront",
-                "background-color":"#E76D45"
-               },
-               {
-                   "values":[2.05],
-                   "text":"All Upfront",
-                   "background-color":"#003366"
+                   "background-color":"#eeeeee"
                }
            ]
        }
