@@ -130,11 +130,11 @@ var myChart12 = {
            },
            "labels":[
                {
-                   "x":"30%",
-                   "y":"47%",
+                   "x":"45%",
+                   "y":"35%",
                    "width":"10%",
                    "text":"500",
-                   "font-size":18
+                   "font-size":22
                }    
            ],
            "plot":{
