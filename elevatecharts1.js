@@ -98,6 +98,7 @@ var myChart12 = {
            "type":"pie",
            "background-color":"none",
            "legend":{
+               "visible":false,
                "background-color":"none",
                "border-width":0,
                "shadow":false,
@@ -133,7 +134,7 @@ var myChart12 = {
                    "y":"47%",
                    "width":"10%",
                    "text":"1.8K",
-                   "font-size":18
+                   "font-size":22
                }    
            ],
            "plot":{
