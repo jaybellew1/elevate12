@@ -133,7 +133,7 @@ var myChart12 = {
                    "x":"45%",
                    "y":"47%",
                    "width":"10%",
-                   "text":"362",
+                   "text":"362 MB",
                    "font-size":18
                }    
            ],
