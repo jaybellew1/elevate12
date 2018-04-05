@@ -1,8 +1,4 @@
 zingchart.THEME="classic";
- 
-
- 
-zingchart.THEME="classic";
 
 var myChart12 = {
    "layout":"h",
