@@ -130,10 +130,10 @@ var myChart12 = {
            },
            "labels":[
                {
-                   "x":"46%",
-                   "y":"28%",
+                   "x":"45%",
+                   "y":"40%",
                    "width":"10%",
-                   "text":"65%",
+                   "text":"66%",
                    "font-size":22
                }    
            ],
@@ -154,11 +154,11 @@ var myChart12 = {
            },
            "series":[
                {
-                   "values":[65],
+                   "values":[66],
                    "background-color":"#2871E6"
                },
                {
-                   "values":[35],
+                   "values":[34],
                    "background-color":"#cccccc"
                }
            ]
