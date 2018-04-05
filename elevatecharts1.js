@@ -147,26 +147,31 @@ var myChart12 = {
                    "visible":false
                },
                "tooltip":{
-                   "text":"%v TB",
+                   "text":"%v K",
                    "shadow":false,
                    "border-radius":3
                }
            },
            "series":[
                {
-                   "values":[136],
-                   "text":"AT&T",
+                   "values":[723.68],
+                   "text":"Partial Upfront",
                    "background-color":"#6CCFDF"
                },
                {
-                   "values":[118],
-                   "text":"Verizon",
+                   "values":[490.67],
+                   "text":"On Demand",
                    "background-color":"#E76D45"
                },
                {
-                   "values":[108],
-                   "text":"T-Mobile",
-                   "background-color":"#55BA72"
+                "values":[174.25],
+                "text":"No Upfront",
+                "background-color":"#E76D45"
+               },
+               {
+                   "values":[2.05],
+                   "text":"All Upfront",
+                   "background-color":"#003366"
                }
            ]
        }
