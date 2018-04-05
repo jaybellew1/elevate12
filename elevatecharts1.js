@@ -131,9 +131,9 @@ var myChart12 = {
            "labels":[
                {
                    "x":"45%",
-                   "y":"35%",
+                   "y":"40%",
                    "width":"10%",
-                   "text":"501",
+                   "text":"65%",
                    "font-size":22
                }    
            ],
