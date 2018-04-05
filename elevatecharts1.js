@@ -132,7 +132,7 @@ var myChart12 = {
                    "x":"45%",
                    "y":"47%",
                    "width":"10%",
-                   "text":"500",
+                   "text":"1.8K",
                    "font-size":18
                }    
            ],
@@ -146,7 +146,7 @@ var myChart12 = {
                    "visible":false
                },
                "tooltip":{
-                   "text":"%v K",
+                   "text":"%v Instances",
                    "shadow":false,
                    "border-radius":3
                }
