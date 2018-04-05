@@ -98,7 +98,6 @@ var myChart12 = {
            "type":"pie",
            "background-color":"none",
            "legend":{
-               "visible":false,
                "background-color":"none",
                "border-width":0,
                "shadow":false,
@@ -154,14 +153,19 @@ var myChart12 = {
            },
            "series":[
                {
-                   "values":[36],
+                   "values":[723.68],
                    "text":"Partial Upfront",
                    "background-color":"#2871E6"
                },
                {
-                   "values":[64],
+                   "values":[490.67],
                    "text":"On Demand",
-                   "background-color":"#eeeeee"
+                   "background-color":"#e47552"
+               },
+               {
+                "values":[174.25],
+                "text":"No Upfront",
+                "background-color":"#8954b3"
                }
            ]
        }
