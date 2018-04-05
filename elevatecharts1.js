@@ -166,3 +166,87 @@ var myChart12 = {
       
    ]
 };
+
+
+
+ 
+zingchart.THEME="classic";
+
+var myChart12b = {
+   "layout":"h",
+    "globals":{
+       "font-family":"Roboto"
+   },
+   "graphset":[
+       {
+           "type":"pie",
+           "background-color":"none",
+           "legend":{
+               "visible":false,
+               "background-color":"none",
+               "border-width":0,
+               "shadow":false,
+               "layout":"float",
+               "margin":"auto auto 16% auto",
+               "marker":{
+                   "border-radius":3,
+                   "border-width":0
+               },
+               "item":{
+                   "color":"%backgroundcolor"
+               }
+           },
+           "title":{
+               "visible":false,
+               "text":"Total number of Yo",
+               "background-color":"none",
+               "font-size":16,
+               "color":"#626262",
+               "x":-20,
+               "y":80
+           },
+           "plotarea":{
+               "background-color":"none",
+               "border-color":"none",
+               "border-width":0,
+               "border-radius":0,
+               "margin":"0% 0%"
+           },
+           "labels":[
+               {
+                   "x":"46%",
+                   "y":"36%",
+                   "width":"10%",
+                   "text":"74%",
+                   "font-size":22
+               }    
+           ],
+           "plot":{
+               "size":'100%',
+               "slice":'80%',
+               "margin-right":0,
+               "border-width":0,
+               "shadow":0,
+               "value-box":{
+                   "visible":false
+               },
+               "tooltip":{
+                   "text":"%v K",
+                   "shadow":false,
+                   "border-radius":3
+               }
+           },
+           "series":[
+               {
+                   "values":[74],
+                   "background-color":"#2871E6"
+               },
+               {
+                   "values":[26],
+                   "background-color":"#cccccc"
+               }
+           ]
+       }
+      
+   ]
+};
