@@ -1,7 +1,6 @@
-zingchart.THEME="default";
-
 var myChart14 = {
     type: "bar",
+    theme: "default",
     plot:{
       stacked:true,
       stackType:"normal"
