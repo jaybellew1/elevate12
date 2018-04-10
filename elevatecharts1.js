@@ -689,7 +689,7 @@ var myChart13r = {
 };
 
 
-zingchart.THEME="default";
+zingchart.THEME="classic";
 
 var myChart14 = {
     type: "bar",
