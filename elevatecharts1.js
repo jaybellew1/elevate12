@@ -1,4 +1,4 @@
-zingchart.THEME="classic";
+
  
 var myChart11 = {
     "layout":"h",
@@ -86,7 +86,7 @@ var myChart11 = {
 
 
  
-zingchart.THEME="classic";
+
 
 var myChart12 = {
    "layout":"h",
@@ -170,7 +170,7 @@ var myChart12 = {
 
 
  
-zingchart.THEME="classic";
+
 
 var myChart12b = {
    "layout":"h",
@@ -254,7 +254,7 @@ var myChart12b = {
 
 
 
-zingchart.THEME="classic";
+
 
 var myChart13r = {
     "background-color":"none",
