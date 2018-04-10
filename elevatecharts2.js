@@ -1,3 +1,5 @@
+zingchart.THEME="classic";
+
 var myChart14 = {
     type: "bar",
     plot:{
