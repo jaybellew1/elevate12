@@ -1,6 +1,6 @@
 var myChart14 = {
     type: "bar",
-    theme: "default",
+    theme: "classic",
     plot:{
       stacked:true,
       stackType:"normal"
