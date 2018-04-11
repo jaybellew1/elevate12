@@ -10,7 +10,9 @@ var myChart14 = {
     },
 
     "scale-y": {
-      "max-value": 1000,
+      "values":"-200:700:100",
+      "max-ticks":10,
+      "max-items":10,
       "label": {
         "text": "Cost ($)"
       },
