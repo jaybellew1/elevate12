@@ -6,7 +6,18 @@ var myChart14 = {
     },
     "plot":{
       "stacked":true,
-      "stackType":"normal"
+      "stackType":"normal",
+      "tooltip":{
+        "font-family":"Roboto",
+        "font-size":"15px",
+        "text":"%t<br>$ %v K on %data-days",
+        "text-align":"left",
+        "border-radius":2,
+        "padding":10
+    }
+
+
+
     },
 
     "scale-y": {
@@ -60,24 +71,6 @@ var myChart14 = {
         "Apr 2018"
       ]
     },
-
-
-
-    "plot":{
-      "line-width":2,
-      "marker":{
-          "size":1,
-          "visible":false
-      },
-      "tooltip":{
-          "font-family":"Roboto",
-          "font-size":"15px",
-          "text":"%t <br> %v on %data-days",
-          "text-align":"left",
-          "border-radius":2,
-          "padding":10
-      }
-  },
 
 
 
