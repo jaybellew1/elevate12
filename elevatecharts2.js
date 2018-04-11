@@ -11,7 +11,7 @@ var myChart14 = {
     },
 
     "scale-y": {
-
+      "max-value": 100,
       "label": {
         "text": "Cost"
       }
