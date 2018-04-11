@@ -56,7 +56,7 @@ var myChart14 = {
       "max-items":13,
 
       "labels": [
-        "April 2017",
+        "Apr 2017",
         "May 2017",
         "Jun 2017",
         "Jul 2017",
