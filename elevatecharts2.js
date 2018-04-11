@@ -3,6 +3,7 @@ var myChart14 = {
     theme: "light",
     title: {
       "text": "Cost History by Service Category",
+    },
     plot:{
       stacked:true,
       stackType:"normal"
