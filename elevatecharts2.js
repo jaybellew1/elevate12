@@ -14,8 +14,20 @@ var myChart14 = {
         "text-align":"left",
         "border-radius":3,
         "padding":10
-    }
+    },
 
+
+    "legend": {
+      "toggle-action": "hide",
+      "header": {
+        "text": "Legend Header"
+      },
+      "item": {
+        "cursor": "pointer"
+      },
+      "draggable": true,
+      "drag-handler": "icon"
+    },
 
 
     },
