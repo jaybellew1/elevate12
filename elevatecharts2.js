@@ -23,7 +23,10 @@ var myChart14 = {
       "toggle-action": "hide",
       "align": "center",
       "vertical-align": "bottom",
-      "border":"none"
+      "border":"none",
+      "width":"80%",
+      "max-items":4,
+      "overflow":"page"
     },
 
 
