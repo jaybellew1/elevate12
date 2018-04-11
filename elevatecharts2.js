@@ -13,11 +13,22 @@ var myChart14 = {
     "scale-y": {
       "max-value": 100,
       "label": {
-        "text": "Cost"
+        "text": "Cost($)"
       }
     },
   
     "scale-x": {
+      
+      "label":{
+        "text":"Months",
+        "font-size":"14px",
+        "font-weight":"normal",
+        "offset-x":"10%",
+        "font-angle":360
+    },
+
+      "max-items":13,
+
       "labels": [
         "April 2017",
         "May 2017",
@@ -40,7 +51,7 @@ var myChart14 = {
 
     "series":[
       {
-        "values":[20,5,5,5,5,6,5,5,5,15,5,5]
+        "values":[20,5,5,5,5,6,5,5,5,15,5,5,7]
       },
       {
         "values":[35,5,5,23,5,5,5,5,15,5,5,5,5]
