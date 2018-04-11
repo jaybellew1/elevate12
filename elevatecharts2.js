@@ -22,7 +22,8 @@ var myChart14 = {
     "legend": {
       "toggle-action": "hide",
       "align": "center",
-      "vertical-align": "bottom"
+      "vertical-align": "bottom",
+      "border":"none"
     },
 
 
