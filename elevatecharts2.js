@@ -3,7 +3,6 @@ var myChart14 = {
     "theme": "light",
     "title": {
       "text": "Cost History by Service Category",
-      "fontSize": 18
     },
     "plot":{
       "stacked":true,
@@ -13,18 +12,14 @@ var myChart14 = {
     "scale-y": {
       "max-value": 100,
       "label": {
-        "text": "Cost($)"
+        "text": "Cost ($)"
       }
     },
   
     "scale-x": {
       
       "label":{
-        "text":"Months",
-        "font-size":"14px",
-        "font-weight":"normal",
-        "offset-x":"10%",
-        "font-angle":360
+        "text":"Months"
     },
 
       "max-items":13,
