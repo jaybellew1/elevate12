@@ -21,14 +21,8 @@ var myChart14 = {
 
     "legend": {
       "toggle-action": "hide",
-      "header": {
-        "text": "Legend Header"
-      },
-      "item": {
-        "cursor": "pointer"
-      },
-      "draggable": true,
-      "drag-handler": "icon"
+      "align": "center",
+      "vertical-align": "bottom"
     },
 
 
